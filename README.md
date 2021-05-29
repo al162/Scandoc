@@ -1,4 +1,4 @@
-# Scandoc
+# ScanDoc
 
 # Integrantes del Equipo
 - Italo Molina (ScrumMaster)
