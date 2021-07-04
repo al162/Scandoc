@@ -9,7 +9,14 @@
 - Benjamin Guzman
 
 # Proyecto
-ScanDoc es una pagina web que se especializa en el poder subir documentos al formato PDF y que queden registrados en una base de datos con su nombre, categoria y rol para el documento.
+ScanDoc es una sitio responsivo que permite:
+- Capturar imágenes de documentos a través de cámara y cargar imágenes desde  archivo.
+- Transformar a formato PDF
+- Categorizar, nombrar el archivo (imagen) a subir..
+- Almacenar en bd el documento en formato PDF.
+
+# Instalación
+
 
 # Pagina WEB
 
