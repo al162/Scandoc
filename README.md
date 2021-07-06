@@ -29,6 +29,6 @@ ScanDoc es una sitio responsivo que permite:
 
 # Pagina WEB
 
-http://www.simplesolucion.cl/scandoc/public/index.php
+https://www.simplesolucion.cl/scanbeta/public/index.php
 
 En este link puede acceder a la pigina creado por el equipo
