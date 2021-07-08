@@ -16,7 +16,7 @@ ScanDoc es una sitio responsivo que permite:
 - Almacenar en bd el documento en formato PDF.
 
 # Instalación local
-- Instalar XAMMP descargándolo del sitio https://www.apachefriends.org/
+- Instalar XAMMP descargándolo del sitio https://www.apachefriends.org/ (php v8, laravel v8, mysql v5.7)
 - Descargar https://github.com/al162/Scandoc la última versión de scandoc
 - Descomprimir el archivo .rar en la carpeta xamp
 - Activar base de datos de xamp
